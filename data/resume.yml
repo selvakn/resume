@@ -11,102 +11,173 @@ headers:
     projects: Projects
 
 info:
-    name: Full Name
+    name: Selvakumar Natesan
     # dob: 1980-01-01 # not mandatory
-    shortdesc: Job Title
-    email: example@example.com
-    phone: (313) - 867-5309 # not mandatory
-    homepage: http://example.com/ # not mandatory
+    shortdesc: Developer, Hacker
+    email: hireme@selvakn.in
+    # phone: (+91) 9789063708 # not mandatory
+    homepage: http://blog.selvakn.in # not mandatory
     address:
-        street: 123 Fake Street
-        city: City
-        region: Region # not mandatory
-        postal_code: 12345 # not mandatory
-        country: Country # not mandatory
+        street:
+        city: Chennai
+        # region: Region # not mandatory
+        # postal_code: 12345 # not mandatory
+        country: India # not mandatory
     desc: |
-        Progressively evolve cross-platform ideas before impactful infomediaries. Energistically visualize tactical initiatives before cross-media catalysts for change.
+        To work with an organization that values the craft of software development and provides the right kind of environment and the freedom to build great software. I am very passionate about the open source and would like to join an organization that not only uses open source software but creates or contributes to the ecosystem.
 
 skills:
-    - name: Web design
-      desc: Assertively exploit wireless initiatives rather than synergistic core competencies.
-    - name: Interface Design
-      desc: Credibly streamline mission-critical value with multifunctional functionalities.
-    - name: Project Direction
-      desc: Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.
+    - name: Full stack developer
+      desc: |
+        * Expertise in developing webs apps and mobile apps.</br>
+        * Designed and developed large scale enterprise applications.</br>
+        * Have rescued business critical applications with rapid development
+
+    - name: Consultant / Coach
+      desc: |
+        * Agile development methodologies / tools / techniques.</br>
+        * Technology choices / languages / frameworks.</br>
+
 
 languages:
-    - name: Gibberish
-      level: Native language
-    - name: Manager Speak
+    - name: English
       level: Fluent
+    - name: Tamil
+      level: Native language
 
 alphabetsoup:
-    - XHTML
-    - CSS
-    - Javascript
+    - Ruby
+    - javaScript
+    - Java
 
-    - Jquery
-    - PHP
-    - CVS / Subversion
+    - Scala
+    - C / C++
+    - Objective C
 
-    - OS X
-    - Windows XP/Vista
-    - Linux
+    - Ruby on Rails
+    - Android
+    - iOS
+
+    - AngularJS
+    - HTML5
+    - CSS3
+
+    - Mysql
+    - PostgreSQL
+    - CouchDB
+
+    - Play Framework
+    - Spring
+    - Dropwizard
+
+    - TDD
+    - CI/CD
+    - DevOps
+
+    - Agile
+    - Scrum
+    - XP
+
+    - xUnit
+    - rspec
+    - cucumber
+
+    - Chef
+    - Ansible
+    - AWS
+
 
 links:
-    - name: Link1
-      url: http://example.com/
-    - name: Another link
-      url: https://example.com/
+    - name: github
+      url: https://github.com/selvakn
+    - name: blog
+      url: http://blog.selvakn.in/
+    - name: linkedin
+      url: https://www.linkedin.com/in/selvakn
 
 jobs:
-    - title: Senior Interface Designer
-      company: Famous Company
-      url: http://example.com/
+    - title: Application Developer
+      company: Thoughtworks
+      url: http://thoughtworks.com
       dates:
-          start: 2007-01-02
+          start: 2008-06-04
           end: Present
       desc: |
-          Intrinsicly enable optimal core competencies through corporate relationships.
-
-          Phosfluorescently implement worldwide vortals and client-focused imperatives.
-
-          Conveniently initiate virtual paradigms and top-line convergence.
-
-    - title: Junior Interface Designer
-      company: Technocorp
-      dates:
-          start: 2005-01-01
-          end: 2007-01-01
-      desc: |
-          Progressively reconceptualize multifunctional "outside the box" thinking through inexpensive methods of empowerment.
-
-          Compellingly morph extensive niche markets with mission-critical ideas.
-
-          Phosfluorescently deliver bricks-and-clicks strategic theme areas rather than scalable benefits.
+        * Worked part of various teams
+        * Lead teams of various sizes
+        * Develop solutions end to end (from ideation to deployment)
 
 education: # this section is not mandatory
-    - name: Indiana University
-      url: http://indiana.edu # not mandatory
-      city: Bloomington
-      region: Indiana
-      country: USA # not mandatory
+    - name: Coimbatore Institute of Technology
+#      url: http://indiana.edu # not mandatory
+      city: Coimbatore
+      region: TN
+#      country: India # not mandatory
       dates:
-        start: 2001-01-01
-        end: 2010-01-01 # not mandatory
-      title: Dual Major, Economics and English
-      grade: 4.0 GPA # not mandatory
+        start: 2004-06-01
+        end: 2008-04-30 # not mandatory
+      title: Information Technology
+#      grade: 4.0 GPA # not mandatory
 
 projects: # this section is not mandatory
-    - name: ResumeMan
-      desc: |
-          Resume Man is an HTML and PDF resume builder made in Ruby with Middleman.
-      url: https://github.com/reefab/ResumeMan # not mandatory
-      dates: # not mandatory
-        start: 2013-02-18
-        end: 2014-04-05 # not mandatory
-      location: # not mandatory
-        city: Florence
-        region: Tuscany
-        country: Italy # not mandatory
+#    - name: ResumeMan
+#      desc: |
+#          Resume Man is an HTML and PDF resume builder made in Ruby with Middleman.
+#      url: https://github.com/reefab/ResumeMan # not mandatory
+#      dates: # not mandatory
+#        start: 2013-02-18
+#        end: 2014-04-05 # not mandatory
+#      location: # not mandatory
+#        city: Florence
+#        region: Tuscany
+#        country: Italy # not mandatory
 
+    - name: B2C Website for a leading book publisher in US
+      desc: |
+          Built a scalable website with good user experience, multiple integration points through web
+          services for various features such as shopping cart, user reviews, forums etc and was built using Ruby on Rails.
+
+    - name: Leading car reseller in the US
+      desc: |
+          The client is a leading car reseller in the US and the project is a website for handling pre/post rental process.
+          This application was developed to replace the complete manual process involved in it. It was built using Ruby on Rails.
+
+    - name: Product reviews/ratings hosted technology platform service provider
+      desc: |
+          This project was to build
+          answers modules for the platform and to develop features for one of their major clients and to help them to
+          improve existing platform’s stability with test automation. It’s a Ruby on Rails application, which can be easily
+          tailored for any client specific requirements. Selvakumar was involved in the project right from the inception for:
+
+    - name: Web based federal information aggregation service
+      desc: |
+          Was part of team which built a data rich info service with news, events, regislations, regulations aggregated from various sources
+      location:
+        city: New York
+        region: USA
+
+    - name: Cloud based retail store services
+      desc: |
+          The client is a leading clothing retailer and the project is to rewrite traditional mainframe based store operation (inventory, point of sale)
+          to java based centralized cloud services supporting few hundred stores with high availability.
+      location:
+        city: San Francisco
+        region: USA
+
+    - name: Android tablet based K12 education product
+      desc: |
+          Built android apps and custom mobile device management targeting android based tablets, which can be used by K12 students and teachers to aid in classroom based education.
+          The admin app is built with Ruby based services and angularjs based frontend application.
+      location:
+        city: New York
+        region: USA
+
+    - name: Leading Indian retailer
+      desc: |
+          Built iOS (native and cordova) based custom mobile point of sale application for the retailer, which integrates with payment gateways, bar code readers,
+          mobile printers, powered by java based services wrapping traditional mainframe based application
+
+    - name: Fast growing publishing services provider
+      desc: |
+          Building a completely customizable workflow engine for managing the projects stages and tasks involved in making a book,
+          using Scala based services and angularjs based html/js frontend app.
